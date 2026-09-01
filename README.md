@@ -5,10 +5,19 @@
 ### Software Engineer • Fullstack Developer • AI Developer
 
 Building modern web applications, AI-powered solutions and automation workflows.
-
-<a>[![Portfolio](https://img.shields.io/badge/Portfolio-jakubzengota.github.io-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jakubzengota.github.io)</a>
-<a>[![LinkedIn](https://img.shields.io/badge/LinkedIn-jakubzengota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakubzengota)</a>
-<a>[![GitHub](https://img.shields.io/badge/GitHub-jakubzengota-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jakubzengota)</a>
+<p align="center">
+  <a href="https://jakubzengota.github.io">
+    <img src="https://img.shields.io/badge/PORTFOLIO-jakubzengota.github.io-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/jakubzengota">
+    <img src="https://img.shields.io/badge/LINKEDIN-jakubzengota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/jakubzengota">
+    <img src="https://img.shields.io/badge/GITHUB-jakubzengota-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
