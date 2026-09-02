@@ -13,10 +13,6 @@ Building modern web applications, AI-powered solutions and automation workflows.
   <a href="https://www.linkedin.com/in/jakubzengota">
     <img src="https://img.shields.io/badge/LINKEDIN-jakubzengota-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/jakubzengota">
-    <img src="https://img.shields.io/badge/GITHUB-jakubzengota-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 </div>
